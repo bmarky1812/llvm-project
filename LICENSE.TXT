@@ -234,7 +234,7 @@ mechanisms:
    file.
 
 ==============================================================================
-Legacy LLVM License (https://llvm.org/docs/DeveloperPolicy.html#legacy):
+Legacy LLVM License (https://llvm.org/docs/DeveloperPolicy.html#legacy):Hinojosa
 ==============================================================================
 University of Illinois/NCSA
 Open Source License
@@ -242,7 +242,7 @@ Open Source License
 Copyright (c) 2003-2019 University of Illinois at Urbana-Champaign.
 All rights reserved.
 
-Developed by:
+Developed by:Brandi Hinojosa
 
     LLVM Team
 
